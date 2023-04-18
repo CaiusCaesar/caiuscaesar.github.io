@@ -1,0 +1,166 @@
+.header{
+  margin-top: auto;
+}
+.header-photo{
+width: 100%;
+height: auto;
+position: relative;
+}
+.header-title{
+  top: 55%;
+  left: 30%;
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: xx-large;
+  text-align: center;
+  position: absolute;
+
+  }
+  
+#Menu ul{
+  font-family: 'Courier New', Courier, monospace;
+  box-shadow: 2px 2px 4px #000000;
+  transition: all 0.3s ease-in-out;
+  text-align: center;
+  font-size: xx-large
+
+;}
+ .container1{
+  width: 100%;
+  height: auto;
+  position: relative;
+  background-color: lightpink;
+   }
+   .HeadWill{
+    background-image: none;
+    display: block;
+     }
+  .TitleWill{
+  top: 2%;
+  left: 35%;
+  color: black;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: xx-large;
+  text-align: center;
+  position: absolute;
+  text-decoration: underline;
+  }
+  .TextoWill{
+    left: 50%;
+    text-align: left; 
+    top: 5%;   
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    position: absolute;
+    font-size: small;
+  }
+  .container3{
+    width: 100%;
+    height: auto;
+    position: relative;
+    background-color: lightblue;
+  }
+    .HeadGrace{
+      background-image: none;
+    display: block;
+      }
+     
+  
+  .TitleGrace{
+  top: 2%;
+  left: 35%;
+  color: black;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: xx-large;
+  text-align: center;
+  position: absolute;
+  text-decoration: underline;
+  }
+  .TextoGrace{
+    left: 50%;
+    text-align: left; 
+    top: 5%;   
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    position: absolute;
+    font-size: small;
+  }
+  .container4{
+    width: 100%;
+    height: auto;
+    position: relative;
+    background-color: rgb(253, 188, 68);;
+  }
+    .HeadKaren{
+      background-image: none;
+      display: block;
+  }
+     
+  
+  .TitleKaren{
+  top: 2%;
+  left: 35%;
+  color: black;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: larger;
+  text-align: center;
+  position: absolute;
+  text-decoration: underline;
+  }
+  .TextoKaren{
+    left: 50%;
+    text-align: left; 
+    top: 5%;   
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    position: absolute;
+    font-size: small;
+  }
+  .container5{
+    width: 100%;
+    height: auto;
+    position: relative;
+    background-color: lightgreen;
+  }
+    .HeadJack{
+      background-image: none;
+      display: block;
+  }
+     
+  
+  .TitleJack{
+  top: 2%;
+  left: 35%;
+  color: black;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: large;
+  text-align: center;
+  position: absolute;
+  text-decoration: underline;
+  }
+  .TextoJack{
+    left: 50%;
+    text-align: left; 
+    top: 10%;   
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    position: absolute;
+    font-size: small;
+  }  
+  .container6{
+    width: 100%;
+    height: auto;
+    position: relative;
+   
+  }
+  .Bye{
+  top: 35%;
+  left: 65%;
+  color: black;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: large;
+  text-align: center;
+  position: absolute;
+  text-decoration: underline;
+
+  }
